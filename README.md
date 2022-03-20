@@ -16,17 +16,37 @@ Dalam Pembuatan Doc HTML penjelasannya tidak berbeda jauh dengan [Lab1Web](https
 ![input2](foto/soal2.0.jpg)<br>
 ### Output
 ![output2](foto/soal2.1.jpg)<br>
+### Penjelasan
+``html body{font-family: 'Open Sans', sans-serif;} `` <br>
+fungsi perintah diatas adalah merubah format teks yang ada pada web<br>
+``html header{min-height: 80px;border-bottom: 1px solid#77ccef;}``
+fungsi perintah diatas menambahkan border pada header teks <br>
+min-height: 80px berfungsi sebagai jarak antar header<br>
+border-bottom: 1px solid#77ccef berfungsi sebagai ketebalan dan warna border<br>
 ## 3. Menambahkan Inline CSS
 ### Input
+**Sesudah Menambahkan Inline CSS**<br>
 ![input3](foto/soal3.0.jpg)<br>
+**Sebelum ditambahkan Inline CSS**<br>
+![input3](foto/sisa.jpg)<br>
 ### Output
 ![output3](foto/soal3.1.jpg)<br>
+### Penjelasan
+Penambahan Inline CSS ``html style="text-align: center; color: #ccd8e4;"`` ini merubah posisi dan warna teks, <br>
+yang dimana ``htmlstyle="text-align: center;`` merubah posisi paragraf ke tengah <br>
+``html color: #ccd8e4; `` merubah warna teks yang ada pada paragraf tersebut.<br>
 ## 4. Membuat CSS Eksternal
 ### Input
 ![input4](foto/soal4.0.jpg)<br>
+### Penjelasan
+Penambahan Warna Background dan penambahan warna teks
 ![input4.1](foto/soal4.1.jpg)<br>
+### Penjelasan
+``html <link rel="stylesheet" href="style_eksternal.css" type="text/css"``<br>
+Memasukan CSS eksternal
 ### Output
 ![output4](foto/soal4.2.jpg)<br>
+
 ## 5. Menambahkan CSS Selector
 ### Input
 ![input5](foto/soal5.0.jpg)<br>
@@ -36,9 +56,14 @@ Dalam Pembuatan Doc HTML penjelasannya tidak berbeda jauh dengan [Lab1Web](https
 # Jawab Pertanyaan
 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS 
 dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.<br>
-
+**Hasil Eksperimen**
+![input6](foto/6.jpg)<br>
+link di bawah adalah eksperiment yang telah saya lakukan<br>
+[CSS_Eksperimen](style_eksternal.css)
 2. Apa perbedaan pendeklarasian CSS elemen ``html h1 {...}`` dengan ``html#intro h1 {...}``? berikan 
 penjelasannya!<br>
+``html h1 {...}`` digunakan di HTML sebagi Heading <br>
+``html#intro h1 {...}`` biasanya digunakan pada CSS sebagai perubah tambilan pada heading<br> 
 3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada 
 elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser?<br> Berikan 
 penjelasan dan contohnya!<br>
