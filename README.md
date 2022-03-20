@@ -16,7 +16,7 @@ KELAS   : TI.20.B1 <br>
 ![output2](foto\soal2.1.jpg)<br>
 ## 3. Menambahkan Inline CSS
 **Input**<br>
-![input3]foto\soal3.0.jpg)<br>
+![input3](foto\soal3.0.jpg)<br>
 **Output**<br>
 ![output3](foto\soal3.1.jpg)<br>
 ## 4. Membuat CSS Eksternal
