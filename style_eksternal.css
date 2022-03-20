@@ -1,0 +1,61 @@
+nav {
+    background: #77808f;
+    color: #fff;
+    padding: 10px 20px;
+}
+nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+nav .active,
+nav a:hover { background: #504646;}
+
+/* ID Selector */
+#intro {
+    background: #1C6EA4;
+    background: -moz-linear-gradient(top, #1C6EA4 0%, #2388CB 38%, #25D6C3 100%);
+    background: -webkit-linear-gradient(top, #1C6EA4 0%, #2388CB 38%, #25D6C3 100%);
+    background: linear-gradient(to bottom, #1C6EA4 0%, #2388CB 38%, #25D6C3 100%);;
+    border: 1px solid #099249;
+    min-height: 100px;
+    padding: 10px;
+}
+#intro h1{
+    text-align: left;
+    border: 0;
+    color: #fff;
+}
+#judul {
+    background: #84e7e7;
+    line-height: 1px;
+    padding: 1px;
+    border-radius: 10px;
+    border: 1px solid rgb(0, 0, 0);
+    width: 500px;
+    position: relative; left: 500px ;
+    
+}
+/* Class Selector */
+.button {
+    padding: 15px 20px;
+    background: #bebcbd;
+    color: #fff;
+    display: inline-block;
+    margin: 10px;
+    text-decoration: none;
+}
+.btn-primary {
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    line-height: 18px;
+    padding: 13px;
+    border-radius: 33px;
+    background: #ca0808;
+    border: 2px solid rgb(28, 110, 164);
+    display: inline-block;}
+    .btn-primary:hover {
+    background: #eb642e; }
+    .btn-primary:active {
+    background: #4d0202; }
+}
