@@ -6,7 +6,7 @@ NIM     : 312010154<br>
 KELAS   : TI.20.B1 <br>
 ## 1. Membuat Dokumen HTML
 **Input**<br>
-![input1](screenshot\D:\Tugas\lab2_css_dasar\foto\soal1.0)<br>
+![input1](Screenshot\D:\Tugas\lab2_css_dasar\foto\soal1.0)<br>
 **Output**<br>
 ![output1](D:\Tugas\lab2_css_dasar\foto\soal1.1)<br>
 ## 2. Mendeklarasikan Internal CSS
