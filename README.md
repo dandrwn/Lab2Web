@@ -6,9 +6,9 @@ NIM     : 312010154<br>
 KELAS   : TI.20.B1 <br>
 ## 1. Membuat Dokumen HTML
 **Input**<br>
-![input1](screenshot\foto\soal1.0.jpg)<br>
+![input1](foto\soal1.0.jpg)<br>
 **Output**<br>
-![output1](soal1.1.jpg)<br>
+![output1](foto\soal1.1.jpg)<br>
 ## 2. Mendeklarasikan Internal CSS
 **Input**<br>
 ![input2](foto\soal2.0.jpg)<br>
