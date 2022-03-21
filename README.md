@@ -62,14 +62,20 @@ link di bawah adalah eksperiment yang telah saya lakukan<br>
 [CSS_Eksperimen](style_eksternal.css)
 2. Apa perbedaan pendeklarasian CSS elemen ```h1 {...}``` dengan ```#intro h1 {...}```? berikan 
 penjelasannya!<br>
-```h1 {...}``` digunakan di HTML sebagi Heading biasa <br>
-```#intro h1 {...}``` biasanya digunakan pada CSS untuk melakukan perubahan format dsb pada heading<br> 
+```h1 {...}``` style Heading biasa <br>
+```#intro h1 {...}``` Penambahan style pada h1 di dalam element id intro<br> 
 3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada 
-elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Semuanya akan ditampilkan<br> Berikan 
+elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? **yang terakhir di load**<br> Berikan 
 penjelasan dan contohnya!<br>
-setelah saya melakukan eksperiment pada modul ini perubahan / penambahn CSS internal, eksternal & inline<br>
-semuanya sangat terlihat perubahannya / penambahannya
+![input6](foto/3.jpg)<br>
+![input6](foto/31.jpg)<br>
+![input6](foto/34.jpg)<br>
+![input6](foto/33.jpg)<br>
+
 
 4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut 
 terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser?<br>
 Berikan penjelasan dan contohnya! ( ```<p id="paragraf-1" class="text-paragraf">``` )<br>
+![input6](foto/4.jpg)<br>
+![input6](foto/41.jpg)<br>
+![input6](foto/42.jpg)<br>
